@@ -2,8 +2,6 @@ import time
 import sys, subprocess
 import requests
 
-subprocess.run('clear', shell=True)
-
 print("\n\t =======================================")
 print("\t|                                       |")
 print("\t| Seja bem viade ao encontrador de pai! |")
