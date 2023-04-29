@@ -17,7 +17,7 @@ time.sleep(1)
 print(".")
 time.sleep(2)
 print('.')
-time.sleep(5)
+time.sleep(3)
 
 subprocess.run('clear', shell=True)
 print("\n\n\n\n\t[                      ]")
